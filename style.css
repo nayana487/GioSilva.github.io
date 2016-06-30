@@ -1,0 +1,56 @@
+header {
+  color: white;
+  font-size: 40px;
+  width: 50%;
+}
+.header-list {
+  font-size: 200%;
+}
+nav {
+  color: white;
+  text-align: left;
+  display: list-item;
+  margin-top: 300px;
+}
+body {
+  background-color: gray;
+}
+footer {
+  color: white;
+  text-align: center;
+  }
+.circles {
+  float: right;
+  width: 30%;
+}
+#cir1 {
+  width: 100px;
+	height: 100px;
+	background: blue;
+	border-radius: 50px;
+  margin-left: 130px;
+}
+#cir2 {
+  width: 60px;
+	height: 60px;
+	background: red;
+	border-radius: 50px;
+  margin-left: 10px;
+  margin-top: -50px;
+}
+#cir3 {
+  width: 100px;
+	height: 100px;
+	background: yellow;
+	border-radius: 50px;
+  margin-bottom: 50px;
+}
+#cir4 {
+  width: 80px;
+	height: 80px;
+	background: orange;
+	border-radius: 50px;
+  margin-left: 120px;
+  margin-bottom: 100px;
+  margin-top: -60px;
+}
