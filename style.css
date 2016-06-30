@@ -19,7 +19,9 @@ footer {
   color: white;
   text-align: center;
   }
+
 .circles {
+
   float: right;
   width: 30%;
 }
@@ -28,7 +30,10 @@ footer {
 	height: 100px;
 	background: blue;
 	border-radius: 50px;
-  margin-left: 130px;
+  /*absolute positioning may help you fine-tune position of individual circles relative to the entire document? - Taylor*/
+  position: absolute;
+  bottom: 500px;
+  left: 700px;
 }
 #cir2 {
   width: 60px;
